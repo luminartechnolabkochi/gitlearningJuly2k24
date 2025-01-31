@@ -9,3 +9,7 @@ git commit -m "commit message"=>sa => LR
 git config --global user.name "uername"
 
 git config --global user.email "email"
+
+git remote add remote_name remote_path (for adding remote)
+
+git push remote_name branch_name(master/main)
