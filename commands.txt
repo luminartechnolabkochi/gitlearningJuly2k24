@@ -5,3 +5,7 @@ git status=>list all untracked files
 git add -A => adding all untracked files to sa
 
 git commit -m "commit message"=>sa => LR
+
+git config --global user.name "uername"
+
+git config --global user.email "email"
